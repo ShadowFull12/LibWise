@@ -31,7 +31,7 @@ We've used a modern, robust, and scalable tech stack to build LibWise:
 -   **Language**: [TypeScript](https://www.typescriptlang.org/) - For type-safe JavaScript.
 -   **Styling**: [Tailwind CSS](https://tailwindcss.com/) with [Shadcn/UI](https://ui.shadcn.com/) - For a beautiful and responsive user interface.
 -   **Backend & Database**: [Firebase](https://firebase.google.com/) - We use Firebase for user authentication (Firebase Auth) and as our database (Firestore), providing a real-time and scalable backend.
--   **Deployment**: [Vercel](https://vercel.com/) - For continuous deployment and hosting. The app is live at [www.libwise-beta.vercel.app](https://www.libwise-beta.vercel.app/).
+-   **Deployment**: [Vercel](https://vercel.com/) - For continuous deployment and hosting. The app is live at [www.libwise-beta.vercel.app](https://libwise-beta.vercel.app/).
 
 ## Features
 
