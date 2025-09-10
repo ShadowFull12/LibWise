@@ -1,6 +1,6 @@
 # LibWise - Your Modern Digital Library
 
-[![Deployment](https://img.shields.io/badge/deployment-Vercel-black?style=for-the-badge&logo=vercel)](https://www.libwise-beta.vercel.app/)
+[![Deployment](https://img.shields.io/badge/deployment-Vercel-black?style=for-the-badge&logo=vercel)](https://libwise-beta.vercel.app/)
 
 This project is a submission for the **NEXATHON HACKATHON**.
 
